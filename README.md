@@ -1,5 +1,7 @@
 # 深度集成阿里云百炼 Token Plan：Qwen3.8-Flash 接入指南（精简版）
 
+![lang](https://img.shields.io/badge/lang-docs-informational) ![status](https://img.shields.io/badge/status-maintained-brightgreen)
+
 > ✅ 一键启动 | ⚠️ 关键警告 | 💰 高性价比 | 🔒 无精确用量 
 
 ## 1. 一句话总结（核心价值）
